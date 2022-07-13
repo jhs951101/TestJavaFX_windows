@@ -1,1 +1,1 @@
-Download JavaFX Windows SDK: https://gluonhq.com/products/javafx/
+Download JavaFX Windows SDK (javafx-sdk-18.0.1) : https://gluonhq.com/products/javafx/
